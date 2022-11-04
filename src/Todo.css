@@ -1,0 +1,27 @@
+.MainCont {
+text-align: center;
+width: 100%; 
+}
+
+.button {
+    border-radius: 15px; 
+    width: 100px; 
+    background-color: red; 
+    cursor: pointer; 
+    user-select: none; 
+    text-align: center; 
+    margin: 20px auto;
+}
+
+    .button:active {
+        transform: translateX(5px) translateY(5px); 
+    }
+#itemWrapper{
+ width: 80%;
+display: grid; 
+grid-template-columns: 80% 10% 10%; 
+}
+
+.editInput {
+
+}
