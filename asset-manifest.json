@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Albertyhu/Todo-coding-interview/static/css/main.513c7ad6.css",
-    "main.js": "/Albertyhu/Todo-coding-interview/static/js/main.97f197aa.js",
-    "static/js/787.7fb244ca.chunk.js": "/Albertyhu/Todo-coding-interview/static/js/787.7fb244ca.chunk.js",
-    "static/media/logo.svg": "/Albertyhu/Todo-coding-interview/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Albertyhu/Todo-coding-interview/index.html",
-    "main.513c7ad6.css.map": "/Albertyhu/Todo-coding-interview/static/css/main.513c7ad6.css.map",
-    "main.97f197aa.js.map": "/Albertyhu/Todo-coding-interview/static/js/main.97f197aa.js.map",
-    "787.7fb244ca.chunk.js.map": "/Albertyhu/Todo-coding-interview/static/js/787.7fb244ca.chunk.js.map"
+    "main.css": "/Todo-coding-interview/static/css/main.513c7ad6.css",
+    "main.js": "/Todo-coding-interview/static/js/main.5d1b354d.js",
+    "static/js/787.7fb244ca.chunk.js": "/Todo-coding-interview/static/js/787.7fb244ca.chunk.js",
+    "static/media/logo.svg": "/Todo-coding-interview/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Todo-coding-interview/index.html",
+    "main.513c7ad6.css.map": "/Todo-coding-interview/static/css/main.513c7ad6.css.map",
+    "main.5d1b354d.js.map": "/Todo-coding-interview/static/js/main.5d1b354d.js.map",
+    "787.7fb244ca.chunk.js.map": "/Todo-coding-interview/static/js/787.7fb244ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.513c7ad6.css",
-    "static/js/main.97f197aa.js"
+    "static/js/main.5d1b354d.js"
   ]
 }
